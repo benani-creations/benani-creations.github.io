@@ -1,2 +1,2 @@
-# benani-creations.github.io
+# benanicreations.github.io
 designs, writing, tutoring, promotions and more 
